@@ -1,6 +1,6 @@
 # Animations ReactNative
 
-<img src="animation.gif" width="40" height="40" />
+<img src="animation.gif" width="300" height="600" />
 <!-- ![](animation.gif) -->
 
 Project to demonstrate the power of ReactNative's animation api
