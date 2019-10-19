@@ -1,7 +1,7 @@
 # Animations ReactNative
 
 <p align="center">
-<img src="animation.gif" width="400" height="650" />
+<img src="animation.gif" width="330" height="650" />
 </p>
 <!-- ![](animation.gif) -->
 
