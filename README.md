@@ -9,9 +9,11 @@ Project to demonstrate the power of ReactNative's animation api
 
 ## Getting Started
 
-Make the clone on your machine
-Set up android and React Native
-Change android / local.properties file to your machine's SDK address
+<ul>
+  <li>Make the clone on your machine</li>
+  <li>Set up android and React Native</li>
+  <li>Change android / local.properties file to your machine's SDK address</li>
+</ul>
 
 ### Prerequisites
 
