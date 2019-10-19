@@ -19,4 +19,4 @@ Installed Android and ReactNative
 
 ## Authors
 
-- **Rodrigo Matos** - _Initial work_ - [PurpleBooth](https://github.com/rodrigomatosc)
+- **Rodrigo Matos** - _Initial work_ - [Here](https://github.com/rodrigomatosc)
